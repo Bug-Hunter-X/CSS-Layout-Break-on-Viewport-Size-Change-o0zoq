@@ -1,0 +1,1 @@
+This repository contains a bug report and solution for an unexpected layout behavior in CSS when the viewport size changes. The bug causes elements to overlap and images not to scale properly. The solution involves using media queries to adjust styles based on the viewport width and height and to provide better image scaling.
